@@ -1,0 +1,17 @@
+.uc-topmenu {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 9899;
+}
+
+.menu-btn .tn-atom, .font-clr-hdr .tn-atom {
+    text-decoration: underline!important;
+}
+
+.uc-block-footer {
+    position: relative;
+    width: 100%;
+    top: 0px;
+    z-index: 99999;
+}
